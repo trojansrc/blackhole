@@ -1,0 +1,17 @@
+# Block compressed archives downloaded from MEGA
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Block unzipped source folders or payloads
+/extracted_source/
+/payloads/
+/malware/
+
+# Standard PHP local logs and environment variables
+*.log
+/logs/
+/tmp/
+.env
+config.php

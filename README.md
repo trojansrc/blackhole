@@ -12,7 +12,6 @@ Follow the link below to access the archived materials:
 
 ## 🛠️ Instructions
 1. Copy the MEGA link provided above.
-2. Decrypt and extract the contents using your analysis machine's local password (if applicable).
 
 ## 📊 Technical Overview
 * **Backend Language:** Plain PHP (Vanilla)
